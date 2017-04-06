@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/okhttplibrary/src/main/java/brothergang/okhttp3/Address.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/okhttplibrary/src/main/java/brothergang/okhttp3/Authenticator.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/okhttplibrary/src/main/java/brothergang/okhttp3/Cache.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/okhttplibrary/src/main/java/brothergang/okhttp3/CacheControl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/okhttplibrary/src/main/java/brothergang/okhttp3/Call.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/okhttplibrary/src/main/java/brothergang/okhttp3/Callback.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/okhttplibrary/src/main/java/brothergang/okhttp3/CertificatePinner.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/okhttplibrary/src/main/java/brothergang/okhttp3/Challenge.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/okhttplibrary/src/main/java/brothergang/okhttp3/CipherSuite.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/okhttplibrary/src/main/java/brothergang/okhttp3/Connection.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/okhttplibrary/src/main/java/brothergang/okhttp3/ConnectionPool.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/okhttplibrary/src/main/java/brothergang/okhttp3/ConnectionSpec.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/okhttplibrary/src/main/java/brothergang/okhttp3/Cookie.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/okhttplibrary/src/main/java/brothergang/okhttp3/CookieJar.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/okhttplibrary/src/main/java/brothergang/okhttp3/Credentials.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/okhttplibrary/src/main/java/brothergang/okhttp3/Dispatcher.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/okhttplibrary/src/main/java/brothergang/okhttp3/Dns.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/okhttplibrary/src/main/java/brothergang/okhttp3/EventListener.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/okhttplibrary/src/main/java/brothergang/okhttp3/FormBody.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/okhttplibrary/src/main/java/brothergang/okhttp3/Handshake.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/okhttplibrary/src/main/java/brothergang/okhttp3/Headers.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/okhttplibrary/src/main/java/brothergang/okhttp3/HttpUrl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/okhttplibrary/src/main/java/brothergang/okhttp3/Interceptor.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/okhttplibrary/src/main/java/brothergang/okhttp3/MediaType.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/okhttplibrary/src/main/java/brothergang/okhttp3/MediaType.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/okhttplibrary/src/main/java/brothergang/okhttp3/MultipartBody.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/okhttplibrary/src/main/java/brothergang/okhttp3/OkHttpClient.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/okhttplibrary/src/main/java/brothergang/okhttp3/OkHttpClient.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/okhttplibrary/src/main/java/brothergang/okhttp3/Protocol.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/okhttplibrary/src/main/java/brothergang/okhttp3/RealCall.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/okhttplibrary/src/main/java/brothergang/okhttp3/Request.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/okhttplibrary/src/main/java/brothergang/okhttp3/Request.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/okhttplibrary/src/main/java/brothergang/okhttp3/RequestBody.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/okhttplibrary/src/main/java/brothergang/okhttp3/RequestBody.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/okhttplibrary/src/main/java/brothergang/okhttp3/Response.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/okhttplibrary/src/main/java/brothergang/okhttp3/Response.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/okhttplibrary/src/main/java/brothergang/okhttp3/ResponseBody.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/okhttplibrary/src/main/java/brothergang/okhttp3/Route.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/okhttplibrary/src/main/java/brothergang/okhttp3/TlsVersion.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/okhttplibrary/src/main/java/brothergang/okhttp3/WebSocket.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/okhttplibrary/src/main/java/brothergang/okhttp3/WebSocketListener.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/okhttplibrary/src/main/java/brothergang/okhttp3/internal/Internal.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/okhttplibrary/src/main/java/brothergang/okhttp3/internal/NamedRunnable.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/okhttplibrary/src/main/java/brothergang/okhttp3/internal/Util.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/okhttplibrary/src/main/java/brothergang/okhttp3/internal/cache" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/okhttplibrary/src/main/java/brothergang/okhttp3/internal/cache2" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/okhttplibrary/src/main/java/brothergang/okhttp3/internal/connection" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/okhttplibrary/src/main/java/brothergang/okhttp3/internal/http" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/okhttplibrary/src/main/java/brothergang/okhttp3/internal/http1" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/okhttplibrary/src/main/java/brothergang/okhttp3/internal/http2" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/okhttplibrary/src/main/java/brothergang/okhttp3/internal/io" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/okhttplibrary/src/main/java/brothergang/okhttp3/internal/platform" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/okhttplibrary/src/main/java/brothergang/okhttp3/internal/tls" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/okhttplibrary/src/main/java/brothergang/okhttp3/internal/ws" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
